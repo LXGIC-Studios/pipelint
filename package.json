@@ -28,7 +28,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lxgicstudios/pipelint"
+    "url": "git+https://github.com/LXGIC-Studios/pipelint.git"
   },
   "files": [
     "dist"
@@ -39,5 +39,13 @@
   "devDependencies": {
     "typescript": "^5.3.0",
     "@types/node": "^20.0.0"
+  },
+  "homepage": "https://github.com/LXGIC-Studios/pipelint#readme",
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/LXGIC-Studios"
+  },
+  "bugs": {
+    "url": "https://github.com/LXGIC-Studios/pipelint/issues"
   }
 }
